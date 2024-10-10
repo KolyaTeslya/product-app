@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Ноутбук",
+    "price": 1200,
+    "description": "Потужний ноутбук для роботи та розваг.",
+    "image": "https://content.rozetka.com.ua/goods/images/big/424859793.jpg",
+    "category": "expensive"
+  },
+  {
+    "id": 2,
+    "name": "Навушники",
+    "price": 150,
+    "description": "Високоякісний звук та зручна посадка.",
+    "image": "https://content1.rozetka.com.ua/goods/images/big/424931303.jpg",
+    "category": "medium"
+  },
+  {
+    "id": 3,
+    "name": "Миша",
+    "price": 25,
+    "description": "Ергономічний дизайн з точним відстеженням.",
+    "image": "https://images.prom.ua/3752552133_w640_h640_3752552133.jpg",
+    "category": "cheap"
+  },
+  {
+    "id": 4,
+    "name": "Смартфон",
+    "price": 800,
+    "description": "Смартфон високого класу з вражаючим дисплеєм.",
+    "image": "https://lido.ua/uploads/shop/products/large/b3766b99-0182-4b77-8bde-f23234f4b0d0.jpeg",
+    "category": "expensive"
+  },
+  {
+    "id": 5,
+    "name": "Монітор",
+    "price": 300,
+    "description": "4K Ultra HD монітор з яскравими кольорами.",
+    "image": "https://i5.walmartimages.com/asr/8a762089-120e-4aa2-8bba-0fb66e16e0ec_1.4554f1bc0f7a9d073ce8b038d6a4d67c.jpeg",
+    "category": "medium"
+  },
+  {
+    "id": 6,
+    "name": "Клавіатура",
+    "price": 45,
+    "description": "Механічна клавіатура з RGB підсвіткою.",
+    "image": "https://i5.walmartimages.com/asr/48b6c361-d1cc-4562-b5fa-a6e0b4a961c6.f471d9dcc4cb23bf3b79722e9f27961f.jpeg",
+    "category": "cheap"
+  },
+  {
+    "id": 7,
+    "name": "Планшет",
+    "price": 600,
+    "description": "Компактний і потужний планшет для щоденних завдань.",
+    "image": "https://www.teknofilo.com/wp-content/uploads/2018/08/B2976394-9DE0-4F64-92EC-5FF6C0D6D824-scaled.jpeg",
+    "category": "expensive"
+  },
+  {
+    "id": 8,
+    "name": "Розумні годинники",
+    "price": 250,
+    "description": "Розумні годинники з функціями відстеження фітнесу.",
+    "image": "https://api-rayashop.freetls.fastly.net/media/catalog/product/cache/4e49ac3a70c0b98a165f3fa6633ffee1/b/d/bdhzdwl_di5bumechddjj0vf.jpeg",
+    "category": "medium"
+  },
+  {
+    "id": 9,
+    "name": "Динаміки",
+    "price": 90,
+    "description": "Портативні Bluetooth динаміки з відмінним звуком.",
+    "image": "https://m.media-amazon.com/images/I/61CorIpO46S.jpg",
+    "category": "cheap"
+  },
+  {
+    "id": 10,
+    "name": "Камера",
+    "price": 1100,
+    "description": "Професійна DSLR камера з кількома об'єктивами.",
+    "image": "https://www.bhphotovideo.com/images/images2500x2500/Nikon_26314_Coolpix_S9300_Digital_Camera_842361.jpg",
+    "category": "expensive"
+  },
+  {
+    "id": 11,
+    "name": "Принтер",
+    "price": 200,
+    "description": "Швидкий лазерний принтер для офісу.",
+    "image": "https://content1.rozetka.com.ua/goods/images/big/443528950.jpg",
+    "category": "medium"
+  },
+  {
+    "id": 12,
+    "name": "Сканер",
+    "price": 120,
+    "description": "Компактний сканер для документів.",
+    "image": "https://content1.rozetka.com.ua/goods/images/big/384068483.jpg",
+    "category": "cheap"
+  }
+]
